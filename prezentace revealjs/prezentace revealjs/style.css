@@ -1,0 +1,58 @@
+.team {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.member {
+    text-align: center;
+    width: 20%;
+}
+
+.member img {
+    width: 100%;
+    height: auto;
+    border-radius: 25%;
+}
+
+.role {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.name {
+    color: #555555;
+    font-size: 0.9em;
+}
+
+.logo {
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    width: 80px;
+    height: auto;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.controls-arrow{
+    color: #d1b292;
+}
+.reveal .progress {
+    background: rgba(0, 0, 0, 0.2);
+    color: #d1b292;
+    height: 1%;
+  }
+
+  .reveal h2{
+    color: #d1b292;
+  }
+
+  .reveal h1{
+    color: transparent;      
+    -webkit-text-stroke: 2px #ffffff;
+    font-weight: bold;
+}
