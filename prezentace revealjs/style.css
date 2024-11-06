@@ -56,3 +56,18 @@ h2 {
     -webkit-text-stroke: 2px #ffffff;
     font-weight: bold;
 }
+
+.role img{
+    width: 300px; 
+    height: auto; 
+    float: right; 
+    margin-top: 20px; 
+    margin-left: 20px;
+}
+
+.role{
+    display: flex; 
+    justify-content: 
+    space-between; 
+    align-items: flex-start;
+}
