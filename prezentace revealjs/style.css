@@ -57,7 +57,7 @@ h2 {
     font-weight: bold;
 }
 
-.role img{
+.role2 img{
     width: 300px; 
     height: auto; 
     float: right; 
@@ -65,7 +65,7 @@ h2 {
     margin-left: 20px;
 }
 
-.role{
+.role2{
     display: flex; 
     justify-content: 
     space-between; 
